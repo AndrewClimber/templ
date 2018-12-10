@@ -1,0 +1,1512 @@
+Enter value for number_papki: 797815
+********************                                                  
+Price-list for document:1952099/4 Kurs 1 Data 17.11.2000              
+********************                                                  
+update pmed set price=1.02 where cd_p=3 and cd_m=2158;                
+update pmed set price=.57 where cd_p=3 and cd_m=11461;                
+Тело документа                                                        
+2158  30                                                              
+11461  5                                                              
+Серии                                                                 
+**********************************************************            
+Price-list for document:1952099/5 Kurs 1 Data 17.11.2000              
+********************                                                  
+update pmed set price=.3025 where cd_p=3 and cd_m=9236;               
+Тело документа                                                        
+9236  84                                                              
+Серии                                                                 
+9236;30600/0700;01.07.2000;01.07.2002;84                              
+**********************************************************            
+Price-list for document:1952099/7 Kurs 1 Data 17.11.2000              
+********************                                                  
+update pmed set price=.64 where cd_p=3 and cd_m=20;                   
+update pmed set price=1.31 where cd_p=3 and cd_m=36;                  
+update pmed set price=.91 where cd_p=3 and cd_m=59;                   
+update pmed set price=3.23 where cd_p=3 and cd_m=60;                  
+update pmed set price=1.84 where cd_p=3 and cd_m=80;                  
+update pmed set price=1.7 where cd_p=3 and cd_m=87;                   
+update pmed set price=1.49 where cd_p=3 and cd_m=90;                  
+update pmed set price=.4 where cd_p=3 and cd_m=152;                   
+update pmed set price=.66 where cd_p=3 and cd_m=175;                  
+update pmed set price=4.35 where cd_p=3 and cd_m=208;                 
+update pmed set price=3.13 where cd_p=3 and cd_m=254;                 
+update pmed set price=.46 where cd_p=3 and cd_m=258;                  
+update pmed set price=.45 where cd_p=3 and cd_m=259;                  
+update pmed set price=.22 where cd_p=3 and cd_m=300;                  
+update pmed set price=.82 where cd_p=3 and cd_m=326;                  
+update pmed set price=1.9 where cd_p=3 and cd_m=342;                  
+update pmed set price=1.64 where cd_p=3 and cd_m=353;                 
+update pmed set price=6.9 where cd_p=3 and cd_m=356;                  
+update pmed set price=.89 where cd_p=3 and cd_m=368;                  
+update pmed set price=1.34 where cd_p=3 and cd_m=378;                 
+update pmed set price=1.28 where cd_p=3 and cd_m=384;                 
+update pmed set price=.48 where cd_p=3 and cd_m=400;                  
+update pmed set price=.39 where cd_p=3 and cd_m=403;                  
+update pmed set price=2 where cd_p=3 and cd_m=407;                    
+update pmed set price=1.87 where cd_p=3 and cd_m=435;                 
+update pmed set price=.45 where cd_p=3 and cd_m=448;                  
+update pmed set price=7.7 where cd_p=3 and cd_m=467;                  
+update pmed set price=4.48 where cd_p=3 and cd_m=477;                 
+update pmed set price=3.76 where cd_p=3 and cd_m=487;                 
+update pmed set price=.25 where cd_p=3 and cd_m=516;                  
+update pmed set price=2.94 where cd_p=3 and cd_m=534;                 
+update pmed set price=1.41 where cd_p=3 and cd_m=544;                 
+update pmed set price=3.55 where cd_p=3 and cd_m=548;                 
+update pmed set price=.66 where cd_p=3 and cd_m=551;                  
+update pmed set price=.15 where cd_p=3 and cd_m=596;                  
+update pmed set price=1.52 where cd_p=3 and cd_m=642;                 
+update pmed set price=.87 where cd_p=3 and cd_m=644;                  
+update pmed set price=2.59 where cd_p=3 and cd_m=652;                 
+update pmed set price=4.76 where cd_p=3 and cd_m=667;                 
+update pmed set price=5.35 where cd_p=3 and cd_m=668;                 
+update pmed set price=10.64 where cd_p=3 and cd_m=669;                
+update pmed set price=.56 where cd_p=3 and cd_m=675;                  
+update pmed set price=1.85 where cd_p=3 and cd_m=684;                 
+update pmed set price=1.22 where cd_p=3 and cd_m=703;                 
+update pmed set price=.55 where cd_p=3 and cd_m=704;                  
+update pmed set price=.09 where cd_p=3 and cd_m=743;                  
+update pmed set price=.6 where cd_p=3 and cd_m=758;                   
+update pmed set price=.64 where cd_p=3 and cd_m=780;                  
+update pmed set price=1.08 where cd_p=3 and cd_m=781;                 
+update pmed set price=1.46 where cd_p=3 and cd_m=794;                 
+update pmed set price=.33 where cd_p=3 and cd_m=812;                  
+update pmed set price=.3 where cd_p=3 and cd_m=813;                   
+update pmed set price=.98 where cd_p=3 and cd_m=815;                  
+update pmed set price=.16 where cd_p=3 and cd_m=821;                  
+update pmed set price=.08 where cd_p=3 and cd_m=823;                  
+update pmed set price=.69 where cd_p=3 and cd_m=833;                  
+update pmed set price=1.39 where cd_p=3 and cd_m=835;                 
+update pmed set price=3.84 where cd_p=3 and cd_m=873;                 
+update pmed set price=1.1 where cd_p=3 and cd_m=878;                  
+update pmed set price=.1 where cd_p=3 and cd_m=885;                   
+update pmed set price=.35 where cd_p=3 and cd_m=952;                  
+update pmed set price=.37 where cd_p=3 and cd_m=953;                  
+update pmed set price=.53 where cd_p=3 and cd_m=954;                  
+update pmed set price=.37 where cd_p=3 and cd_m=1009;                 
+update pmed set price=.79 where cd_p=3 and cd_m=1131;                 
+update pmed set price=.15 where cd_p=3 and cd_m=1188;                 
+update pmed set price=.27 where cd_p=3 and cd_m=1191;                 
+update pmed set price=.37 where cd_p=3 and cd_m=1192;                 
+update pmed set price=.59 where cd_p=3 and cd_m=1201;                 
+update pmed set price=.14 where cd_p=3 and cd_m=1205;                 
+update pmed set price=.21 where cd_p=3 and cd_m=1239;                 
+update pmed set price=.84 where cd_p=3 and cd_m=1247;                 
+update pmed set price=.26 where cd_p=3 and cd_m=1311;                 
+update pmed set price=3.16 where cd_p=3 and cd_m=1313;                
+update pmed set price=2.49 where cd_p=3 and cd_m=1352;                
+update pmed set price=.06 where cd_p=3 and cd_m=1367;                 
+update pmed set price=.12 where cd_p=3 and cd_m=1370;                 
+update pmed set price=.33 where cd_p=3 and cd_m=1399;                 
+update pmed set price=.42 where cd_p=3 and cd_m=1442;                 
+update pmed set price=2.22 where cd_p=3 and cd_m=1506;                
+update pmed set price=.63 where cd_p=3 and cd_m=1666;                 
+update pmed set price=.19 where cd_p=3 and cd_m=1685;                 
+update pmed set price=.52 where cd_p=3 and cd_m=1738;                 
+update pmed set price=.77 where cd_p=3 and cd_m=1829;                 
+update pmed set price=4.72 where cd_p=3 and cd_m=1831;                
+update pmed set price=1.69 where cd_p=3 and cd_m=1853;                
+update pmed set price=.11 where cd_p=3 and cd_m=1885;                 
+update pmed set price=.61 where cd_p=3 and cd_m=1906;                 
+update pmed set price=.14 where cd_p=3 and cd_m=1909;                 
+update pmed set price=.18 where cd_p=3 and cd_m=1914;                 
+update pmed set price=3.27 where cd_p=3 and cd_m=1918;                
+update pmed set price=1.9 where cd_p=3 and cd_m=1919;                 
+update pmed set price=2.06 where cd_p=3 and cd_m=1940;                
+update pmed set price=3.49 where cd_p=3 and cd_m=1995;                
+update pmed set price=1 where cd_p=3 and cd_m=2099;                   
+update pmed set price=6.48 where cd_p=3 and cd_m=2139;                
+update pmed set price=.87 where cd_p=3 and cd_m=2140;                 
+update pmed set price=2.98 where cd_p=3 and cd_m=2165;                
+update pmed set price=.71 where cd_p=3 and cd_m=2167;                 
+update pmed set price=.3 where cd_p=3 and cd_m=2254;                  
+update pmed set price=.1 where cd_p=3 and cd_m=2318;                  
+update pmed set price=3.19 where cd_p=3 and cd_m=2340;                
+update pmed set price=.68 where cd_p=3 and cd_m=2384;                 
+update pmed set price=.7 where cd_p=3 and cd_m=2463;                  
+update pmed set price=45.89 where cd_p=3 and cd_m=2518;               
+update pmed set price=.58 where cd_p=3 and cd_m=2525;                 
+update pmed set price=.12 where cd_p=3 and cd_m=2547;                 
+update pmed set price=.24 where cd_p=3 and cd_m=2714;                 
+update pmed set price=.04 where cd_p=3 and cd_m=2814;                 
+update pmed set price=.03 where cd_p=3 and cd_m=2815;                 
+update pmed set price=.06 where cd_p=3 and cd_m=2817;                 
+update pmed set price=1.04 where cd_p=3 and cd_m=2835;                
+update pmed set price=.92 where cd_p=3 and cd_m=2894;                 
+update pmed set price=1.73 where cd_p=3 and cd_m=2907;                
+update pmed set price=1.74 where cd_p=3 and cd_m=2910;                
+update pmed set price=2.03 where cd_p=3 and cd_m=2911;                
+update pmed set price=7.03 where cd_p=3 and cd_m=3021;                
+update pmed set price=1.28 where cd_p=3 and cd_m=3077;                
+update pmed set price=2.17 where cd_p=3 and cd_m=3117;                
+update pmed set price=.22 where cd_p=3 and cd_m=3134;                 
+update pmed set price=.59 where cd_p=3 and cd_m=3183;                 
+update pmed set price=5.32 where cd_p=3 and cd_m=3198;                
+update pmed set price=.15 where cd_p=3 and cd_m=3276;                 
+update pmed set price=1.13 where cd_p=3 and cd_m=3299;                
+update pmed set price=.39 where cd_p=3 and cd_m=3417;                 
+update pmed set price=.59 where cd_p=3 and cd_m=3744;                 
+update pmed set price=.69 where cd_p=3 and cd_m=3745;                 
+update pmed set price=2.94 where cd_p=3 and cd_m=3910;                
+update pmed set price=.45 where cd_p=3 and cd_m=3922;                 
+update pmed set price=1.09 where cd_p=3 and cd_m=4242;                
+update pmed set price=.35 where cd_p=3 and cd_m=4576;                 
+update pmed set price=.55 where cd_p=3 and cd_m=4577;                 
+update pmed set price=.44 where cd_p=3 and cd_m=4578;                 
+update pmed set price=.39 where cd_p=3 and cd_m=4579;                 
+update pmed set price=.44 where cd_p=3 and cd_m=4580;                 
+update pmed set price=.35 where cd_p=3 and cd_m=4591;                 
+update pmed set price=.29 where cd_p=3 and cd_m=4592;                 
+update pmed set price=.42 where cd_p=3 and cd_m=4612;                 
+update pmed set price=.42 where cd_p=3 and cd_m=4616;                 
+update pmed set price=.42 where cd_p=3 and cd_m=4618;                 
+update pmed set price=.38 where cd_p=3 and cd_m=4625;                 
+update pmed set price=.4 where cd_p=3 and cd_m=4626;                  
+update pmed set price=1.23 where cd_p=3 and cd_m=4734;                
+update pmed set price=1.88 where cd_p=3 and cd_m=4902;                
+update pmed set price=.78 where cd_p=3 and cd_m=5120;                 
+update pmed set price=.19 where cd_p=3 and cd_m=5263;                 
+update pmed set price=1.16 where cd_p=3 and cd_m=5273;                
+update pmed set price=.31 where cd_p=3 and cd_m=5367;                 
+update pmed set price=1.16 where cd_p=3 and cd_m=5391;                
+update pmed set price=2.11 where cd_p=3 and cd_m=5397;                
+update pmed set price=2.35 where cd_p=3 and cd_m=5399;                
+update pmed set price=.11 where cd_p=3 and cd_m=5496;                 
+update pmed set price=.29 where cd_p=3 and cd_m=5527;                 
+update pmed set price=.29 where cd_p=3 and cd_m=5533;                 
+update pmed set price=.26 where cd_p=3 and cd_m=5536;                 
+update pmed set price=1.16 where cd_p=3 and cd_m=5546;                
+update pmed set price=1.1 where cd_p=3 and cd_m=5585;                 
+update pmed set price=.82 where cd_p=3 and cd_m=5593;                 
+update pmed set price=.61 where cd_p=3 and cd_m=5665;                 
+update pmed set price=.77 where cd_p=3 and cd_m=5670;                 
+update pmed set price=4.86 where cd_p=3 and cd_m=5780;                
+update pmed set price=3.8 where cd_p=3 and cd_m=5792;                 
+update pmed set price=3.17 where cd_p=3 and cd_m=5793;                
+update pmed set price=.37 where cd_p=3 and cd_m=5853;                 
+update pmed set price=.45 where cd_p=3 and cd_m=5963;                 
+update pmed set price=2.57 where cd_p=3 and cd_m=5969;                
+update pmed set price=3.95 where cd_p=3 and cd_m=5970;                
+update pmed set price=5.92 where cd_p=3 and cd_m=5971;                
+update pmed set price=3.49 where cd_p=3 and cd_m=5972;                
+update pmed set price=3.69 where cd_p=3 and cd_m=5975;                
+update pmed set price=.15 where cd_p=3 and cd_m=6016;                 
+update pmed set price=1.13 where cd_p=3 and cd_m=6172;                
+update pmed set price=.94 where cd_p=3 and cd_m=6267;                 
+update pmed set price=.09 where cd_p=3 and cd_m=6440;                 
+update pmed set price=3.01 where cd_p=3 and cd_m=6511;                
+update pmed set price=.44 where cd_p=3 and cd_m=6572;                 
+update pmed set price=.33 where cd_p=3 and cd_m=6603;                 
+update pmed set price=.58 where cd_p=3 and cd_m=6797;                 
+update pmed set price=.17 where cd_p=3 and cd_m=6820;                 
+update pmed set price=5.23 where cd_p=3 and cd_m=7155;                
+update pmed set price=.5 where cd_p=3 and cd_m=7236;                  
+update pmed set price=.59 where cd_p=3 and cd_m=7304;                 
+update pmed set price=1.21 where cd_p=3 and cd_m=7328;                
+update pmed set price=2.78 where cd_p=3 and cd_m=7363;                
+update pmed set price=1.09 where cd_p=3 and cd_m=7448;                
+update pmed set price=1.55 where cd_p=3 and cd_m=7449;                
+update pmed set price=1.51 where cd_p=3 and cd_m=7486;                
+update pmed set price=3.35 where cd_p=3 and cd_m=7529;                
+update pmed set price=3.42 where cd_p=3 and cd_m=7531;                
+update pmed set price=.32 where cd_p=3 and cd_m=7583;                 
+update pmed set price=.21 where cd_p=3 and cd_m=7847;                 
+update pmed set price=.58 where cd_p=3 and cd_m=8044;                 
+update pmed set price=1.05 where cd_p=3 and cd_m=8219;                
+update pmed set price=1.2 where cd_p=3 and cd_m=8238;                 
+update pmed set price=2.2 where cd_p=3 and cd_m=8283;                 
+update pmed set price=.81 where cd_p=3 and cd_m=8299;                 
+update pmed set price=.28 where cd_p=3 and cd_m=8305;                 
+update pmed set price=.26 where cd_p=3 and cd_m=8474;                 
+update pmed set price=.1 where cd_p=3 and cd_m=8547;                  
+update pmed set price=.04 where cd_p=3 and cd_m=8553;                 
+update pmed set price=.73 where cd_p=3 and cd_m=8565;                 
+update pmed set price=.26 where cd_p=3 and cd_m=8570;                 
+update pmed set price=.44 where cd_p=3 and cd_m=8589;                 
+update pmed set price=.25 where cd_p=3 and cd_m=8662;                 
+update pmed set price=.14 where cd_p=3 and cd_m=8682;                 
+update pmed set price=1.06 where cd_p=3 and cd_m=8782;                
+update pmed set price=5.42 where cd_p=3 and cd_m=8794;                
+update pmed set price=.67 where cd_p=3 and cd_m=8892;                 
+update pmed set price=.6 where cd_p=3 and cd_m=8990;                  
+update pmed set price=2.66 where cd_p=3 and cd_m=8998;                
+update pmed set price=.31 where cd_p=3 and cd_m=9018;                 
+update pmed set price=4.01 where cd_p=3 and cd_m=9030;                
+update pmed set price=.09 where cd_p=3 and cd_m=9050;                 
+update pmed set price=6.31 where cd_p=3 and cd_m=9077;                
+update pmed set price=.94 where cd_p=3 and cd_m=9112;                 
+update pmed set price=.14 where cd_p=3 and cd_m=9152;                 
+update pmed set price=.05 where cd_p=3 and cd_m=9177;                 
+update pmed set price=1.25 where cd_p=3 and cd_m=9202;                
+update pmed set price=.23 where cd_p=3 and cd_m=9209;                 
+update pmed set price=.12 where cd_p=3 and cd_m=9230;                 
+update pmed set price=.67 where cd_p=3 and cd_m=9246;                 
+update pmed set price=.24 where cd_p=3 and cd_m=9267;                 
+update pmed set price=.33 where cd_p=3 and cd_m=9283;                 
+update pmed set price=.74 where cd_p=3 and cd_m=9306;                 
+update pmed set price=.09 where cd_p=3 and cd_m=9312;                 
+update pmed set price=.46 where cd_p=3 and cd_m=9460;                 
+update pmed set price=.68 where cd_p=3 and cd_m=9461;                 
+update pmed set price=1.06 where cd_p=3 and cd_m=9484;                
+update pmed set price=.34 where cd_p=3 and cd_m=9505;                 
+update pmed set price=.87 where cd_p=3 and cd_m=9651;                 
+update pmed set price=.87 where cd_p=3 and cd_m=9658;                 
+update pmed set price=2.76 where cd_p=3 and cd_m=9664;                
+update pmed set price=1.14 where cd_p=3 and cd_m=9667;                
+update pmed set price=.45 where cd_p=3 and cd_m=9730;                 
+update pmed set price=.11 where cd_p=3 and cd_m=9761;                 
+update pmed set price=.1 where cd_p=3 and cd_m=9768;                  
+update pmed set price=.15 where cd_p=3 and cd_m=9776;                 
+update pmed set price=.44 where cd_p=3 and cd_m=9797;                 
+update pmed set price=1.23 where cd_p=3 and cd_m=9991;                
+update pmed set price=.23 where cd_p=3 and cd_m=10012;                
+update pmed set price=1.07 where cd_p=3 and cd_m=10251;               
+update pmed set price=1.46 where cd_p=3 and cd_m=10336;               
+update pmed set price=.75 where cd_p=3 and cd_m=10477;                
+update pmed set price=3.65 where cd_p=3 and cd_m=10533;               
+update pmed set price=5.76 where cd_p=3 and cd_m=10539;               
+update pmed set price=3.98 where cd_p=3 and cd_m=10540;               
+update pmed set price=.15 where cd_p=3 and cd_m=10601;                
+update pmed set price=1.36 where cd_p=3 and cd_m=10677;               
+update pmed set price=.24 where cd_p=3 and cd_m=10765;                
+update pmed set price=2.35 where cd_p=3 and cd_m=10794;               
+update pmed set price=.23 where cd_p=3 and cd_m=10796;                
+update pmed set price=.12 where cd_p=3 and cd_m=10827;                
+update pmed set price=.37 where cd_p=3 and cd_m=10924;                
+update pmed set price=.3 where cd_p=3 and cd_m=10932;                 
+update pmed set price=1.64 where cd_p=3 and cd_m=10937;               
+update pmed set price=.59 where cd_p=3 and cd_m=10959;                
+update pmed set price=.83 where cd_p=3 and cd_m=11083;                
+update pmed set price=1.23 where cd_p=3 and cd_m=11102;               
+update pmed set price=1.06 where cd_p=3 and cd_m=11114;               
+update pmed set price=2.68 where cd_p=3 and cd_m=11254;               
+update pmed set price=.14 where cd_p=3 and cd_m=11321;                
+update pmed set price=.23 where cd_p=3 and cd_m=11335;                
+update pmed set price=.4 where cd_p=3 and cd_m=11365;                 
+update pmed set price=.44 where cd_p=3 and cd_m=11366;                
+update pmed set price=2.1 where cd_p=3 and cd_m=11378;                
+update pmed set price=.09 where cd_p=3 and cd_m=11534;                
+update pmed set price=.08 where cd_p=3 and cd_m=11538;                
+update pmed set price=.07 where cd_p=3 and cd_m=11540;                
+update pmed set price=1.64 where cd_p=3 and cd_m=11619;               
+update pmed set price=.29 where cd_p=3 and cd_m=11698;                
+update pmed set price=.32 where cd_p=3 and cd_m=11710;                
+update pmed set price=.14 where cd_p=3 and cd_m=11772;                
+update pmed set price=1.5 where cd_p=3 and cd_m=11789;                
+update pmed set price=.07 where cd_p=3 and cd_m=11792;                
+update pmed set price=1.02 where cd_p=3 and cd_m=11832;               
+update pmed set price=.26 where cd_p=3 and cd_m=11843;                
+update pmed set price=.31 where cd_p=3 and cd_m=11847;                
+update pmed set price=.4 where cd_p=3 and cd_m=11850;                 
+update pmed set price=.38 where cd_p=3 and cd_m=11860;                
+update pmed set price=.18 where cd_p=3 and cd_m=11946;                
+update pmed set price=.23 where cd_p=3 and cd_m=11952;                
+update pmed set price=.3 where cd_p=3 and cd_m=11958;                 
+update pmed set price=.27 where cd_p=3 and cd_m=11961;                
+update pmed set price=.5 where cd_p=3 and cd_m=11975;                 
+update pmed set price=1.69 where cd_p=3 and cd_m=12032;               
+update pmed set price=.87 where cd_p=3 and cd_m=12034;                
+update pmed set price=.38 where cd_p=3 and cd_m=12040;                
+update pmed set price=1.24 where cd_p=3 and cd_m=12041;               
+update pmed set price=.02 where cd_p=3 and cd_m=12097;                
+update pmed set price=4.77 where cd_p=3 and cd_m=12185;               
+update pmed set price=.2 where cd_p=3 and cd_m=12196;                 
+update pmed set price=.31 where cd_p=3 and cd_m=12199;                
+update pmed set price=.99 where cd_p=3 and cd_m=12210;                
+update pmed set price=1.25 where cd_p=3 and cd_m=12232;               
+update pmed set price=.14 where cd_p=3 and cd_m=12235;                
+update pmed set price=.09 where cd_p=3 and cd_m=12244;                
+update pmed set price=.41 where cd_p=3 and cd_m=12246;                
+update pmed set price=.2 where cd_p=3 and cd_m=12361;                 
+update pmed set price=1.01 where cd_p=3 and cd_m=12464;               
+update pmed set price=.54 where cd_p=3 and cd_m=12467;                
+update pmed set price=1.7 where cd_p=3 and cd_m=12488;                
+update pmed set price=.19 where cd_p=3 and cd_m=12504;                
+update pmed set price=.42 where cd_p=3 and cd_m=12519;                
+update pmed set price=.14 where cd_p=3 and cd_m=12524;                
+update pmed set price=.2 where cd_p=3 and cd_m=12539;                 
+update pmed set price=.21 where cd_p=3 and cd_m=12547;                
+update pmed set price=.26 where cd_p=3 and cd_m=12551;                
+update pmed set price=.23 where cd_p=3 and cd_m=12555;                
+update pmed set price=.08 where cd_p=3 and cd_m=12574;                
+update pmed set price=.53 where cd_p=3 and cd_m=12675;                
+update pmed set price=9.97 where cd_p=3 and cd_m=12725;               
+update pmed set price=.74 where cd_p=3 and cd_m=12820;                
+update pmed set price=1.07 where cd_p=3 and cd_m=12821;               
+update pmed set price=1.58 where cd_p=3 and cd_m=12854;               
+update pmed set price=.26 where cd_p=3 and cd_m=12856;                
+update pmed set price=.33 where cd_p=3 and cd_m=12911;                
+update pmed set price=.04 where cd_p=3 and cd_m=12944;                
+update pmed set price=.31 where cd_p=3 and cd_m=12954;                
+update pmed set price=.38 where cd_p=3 and cd_m=12982;                
+update pmed set price=.15 where cd_p=3 and cd_m=12983;                
+update pmed set price=.6 where cd_p=3 and cd_m=12989;                 
+update pmed set price=.6 where cd_p=3 and cd_m=12990;                 
+update pmed set price=.7 where cd_p=3 and cd_m=12993;                 
+update pmed set price=.03 where cd_p=3 and cd_m=12995;                
+update pmed set price=.18 where cd_p=3 and cd_m=13048;                
+Тело документа                                                        
+20  200                                                               
+36  100                                                               
+59  200                                                               
+60  400                                                               
+80  200                                                               
+87  120                                                               
+90  200                                                               
+152  90                                                               
+175  500                                                              
+208  96                                                               
+254  140                                                              
+258  1500                                                             
+259  600                                                              
+300  675                                                              
+326  144                                                              
+342  30                                                               
+353  300                                                              
+356  120                                                              
+368  432                                                              
+378  100                                                              
+384  40                                                               
+400  200                                                              
+403  168                                                              
+407  240                                                              
+435  100                                                              
+448  250                                                              
+467  50                                                               
+477  200                                                              
+487  160                                                              
+516  250                                                              
+534  100                                                              
+544  200                                                              
+548  240                                                              
+551  200                                                              
+596  1200                                                             
+642  144                                                              
+644  312                                                              
+652  100                                                              
+667  60                                                               
+668  120                                                              
+669  120                                                              
+675  70                                                               
+684  200                                                              
+703  240                                                              
+704  52                                                               
+743  2000                                                             
+758  30                                                               
+780  220                                                              
+781  60                                                               
+794  270                                                              
+812  200                                                              
+813  400                                                              
+815  81                                                               
+821  126                                                              
+823  200                                                              
+833  200                                                              
+835  180                                                              
+873  100                                                              
+878  200                                                              
+885  200                                                              
+952  62                                                               
+953  124                                                              
+954  87                                                               
+1009  200                                                             
+1131  20                                                              
+1188  480                                                             
+1191  500                                                             
+1192  256                                                             
+1201  20                                                              
+1205  150                                                             
+1239  800                                                             
+1247  150                                                             
+1311  1000                                                            
+1313  100                                                             
+1352  24                                                              
+1367  500                                                             
+1370  280                                                             
+1399  500                                                             
+1442  100                                                             
+1506  48                                                              
+1666  600                                                             
+1685  250                                                             
+1738  29                                                              
+1829  80                                                              
+1831  35                                                              
+1853  40                                                              
+1885  360                                                             
+1906  60                                                              
+1909  70                                                              
+1914  140                                                             
+1918  35                                                              
+1919  240                                                             
+1940  240                                                             
+1995  100                                                             
+2099  110                                                             
+2139  120                                                             
+2140  160                                                             
+2165  240                                                             
+2167  117                                                             
+2254  112                                                             
+2318  1000                                                            
+2340  30                                                              
+2384  120                                                             
+2463  200                                                             
+2518  45                                                              
+2525  50                                                              
+2547  140                                                             
+2714  200                                                             
+2814  1200                                                            
+2815  2000                                                            
+2817  900                                                             
+2835  600                                                             
+2894  30                                                              
+2907  72                                                              
+2910  30                                                              
+2911  80                                                              
+3021  48                                                              
+3077  100                                                             
+3117  160                                                             
+3134  375                                                             
+3183  70                                                              
+3198  24                                                              
+3276  1000                                                            
+3299  320                                                             
+3417  252                                                             
+3744  80                                                              
+3745  80                                                              
+3910  240                                                             
+3922  120                                                             
+4242  30                                                              
+4576  30                                                              
+4577  28                                                              
+4578  28                                                              
+4579  28                                                              
+4580  28                                                              
+4591  30                                                              
+4592  30                                                              
+4612  30                                                              
+4616  30                                                              
+4618  30                                                              
+4625  30                                                              
+4626  30                                                              
+4734  40                                                              
+4902  50                                                              
+5120  24                                                              
+5263  320                                                             
+5273  117                                                             
+5367  550                                                             
+5391  48                                                              
+5397  12                                                              
+5399  24                                                              
+5496  56                                                              
+5527  120                                                             
+5533  9                                                               
+5536  200                                                             
+5546  400                                                             
+5585  50                                                              
+5593  50                                                              
+5665  66                                                              
+5670  22                                                              
+5780  70                                                              
+5792  24                                                              
+5793  12                                                              
+5853  150                                                             
+5963  30                                                              
+5969  60                                                              
+5970  40                                                              
+5971  24                                                              
+5972  48                                                              
+5975  24                                                              
+6016  84                                                              
+6172  280                                                             
+6267  300                                                             
+6440  400                                                             
+6511  144                                                             
+6572  150                                                             
+6603  70                                                              
+6797  80                                                              
+6820  350                                                             
+7155  10                                                              
+7236  20                                                              
+7304  288                                                             
+7328  420                                                             
+7363  120                                                             
+7448  25                                                              
+7449  25                                                              
+7486  30                                                              
+7529  96                                                              
+7531  120                                                             
+7583  360                                                             
+7847  104                                                             
+8044  100                                                             
+8219  24                                                              
+8238  12                                                              
+8283  192                                                             
+8299  100                                                             
+8305  72                                                              
+8474  180                                                             
+8547  49                                                              
+8553  300                                                             
+8565  40                                                              
+8570  160                                                             
+8589  56                                                              
+8662  48                                                              
+8682  700                                                             
+8782  200                                                             
+8794  120                                                             
+8892  72                                                              
+8990  50                                                              
+8998  50                                                              
+9018  120                                                             
+9030  12                                                              
+9050  350                                                             
+9077  120                                                             
+9112  84                                                              
+9152  120                                                             
+9177  460                                                             
+9202  90                                                              
+9209  168                                                             
+9230  500                                                             
+9246  25                                                              
+9267  100                                                             
+9283  200                                                             
+9306  160                                                             
+9312  600                                                             
+9460  150                                                             
+9461  150                                                             
+9484  160                                                             
+9505  110                                                             
+9651  28                                                              
+9658  28                                                              
+9664  36                                                              
+9667  30                                                              
+9730  96                                                              
+9761  25                                                              
+9768  70                                                              
+9776  56                                                              
+9797  200                                                             
+9991  10                                                              
+10012  50                                                             
+10251  20                                                             
+10336  20                                                             
+10477  50                                                             
+10533  48                                                             
+10539  24                                                             
+10540  24                                                             
+10601  200                                                            
+10677  45                                                             
+10765  200                                                            
+10794  25                                                             
+10796  80                                                             
+10827  200                                                            
+10924  55                                                             
+10932  55                                                             
+10937  12                                                             
+10959  250                                                            
+11083  240                                                            
+11102  80                                                             
+11114  180                                                            
+11254  20                                                             
+11321  80                                                             
+11335  49                                                             
+11365  100                                                            
+11366  100                                                            
+11378  240                                                            
+11534  500                                                            
+11538  500                                                            
+11540  500                                                            
+11619  40                                                             
+11698  70                                                             
+11710  70                                                             
+11772  108                                                            
+11789  24                                                             
+11792  200                                                            
+11832  50                                                             
+11843  55                                                             
+11847  55                                                             
+11850  28                                                             
+11860  55                                                             
+11946  32                                                             
+11952  40                                                             
+11958  144                                                            
+11961  144                                                            
+11975  28                                                             
+12032  115                                                            
+12034  200                                                            
+12040  24                                                             
+12041  20                                                             
+12097  500                                                            
+12185  10                                                             
+12196  560                                                            
+12199  96                                                             
+12210  35                                                             
+12232  128                                                            
+12235  300                                                            
+12244  500                                                            
+12246  300                                                            
+12361  200                                                            
+12464  80                                                             
+12467  250                                                            
+12488  180                                                            
+12504  50                                                             
+12519  50                                                             
+12524  50                                                             
+12539  50                                                             
+12547  50                                                             
+12551  50                                                             
+12555  50                                                             
+12574  500                                                            
+12675  300                                                            
+12725  24                                                             
+12820  60                                                             
+12821  28                                                             
+12854  192                                                            
+12856  50                                                             
+12911  160                                                            
+12944  500                                                            
+12954  36                                                             
+12982  20                                                             
+12983  40                                                             
+12989  200                                                            
+12990  200                                                            
+12993  270                                                            
+12995  2000                                                           
+13048  36                                                             
+Серии                                                                 
+20;G03030A;01.03.2000;01.03.2005;200                                  
+36;A06169A;01.06.2000;01.06.2002;100                                  
+59;0950597;01.05.1997;01.05.2002;200                                  
+60;T03084A;01.03.2000;01.03.2005;400                                  
+80;G09026A;01.09.2000;01.09.2002;200                                  
+87;0130600;01.06.2000;01.06.2003;120                                  
+90;T02002A;01.02.2000;01.02.2005;200                                  
+152;930800;01.08.2000;01.09.2004;90                                   
+175;300021;01.03.2000;01.02.2002;500                                  
+208;6121;01.02.2000;01.02.2005;96                                     
+254;E12006;01.11.1999;01.11.2002;140                                  
+258;06UK0900;01.09.2000;01.09.2004;800                                
+258;29UK0800;01.08.2000;01.08.2004;700                                
+259;04UJ0500;01.05.2000;01.05.2004;300                                
+259;05UJ0500;01.05.2000;01.05.2004;250                                
+259;07UJ0500;01.05.2000;01.05.2004;50                                 
+300;040900;01.09.2000;01.09.2005;675                                  
+326;20800;01.08.2000;01.08.2003;144                                   
+342;40100;01.01.2000;01.01.2003;30                                    
+353;3B0500500;01.05.2000;01.05.2004;300                               
+356;VJ044C;01.06.2000;01.06.2003;120                                  
+368;D6893;01.09.2000;01.09.2003;432                                   
+378;D0499;01.12.1999;01.12.2004;100                                   
+384;5221;01.07.2000;01.07.2002;40                                     
+400;3A0041000;01.10.2000;01.10.2004;200                               
+403;89102000;01.10.2000;01.11.2003;168                                
+407;0E031A;01.05.2000;01.05.2003;240                                  
+435;1167019;01.10.1999;01.10.2003;100                                 
+448;229082000;01.08.2000;01.09.2002;250                               
+467;0817507B;01.07.2000;01.07.2005;50                                 
+477;0443403B;01.02.2000;01.02.2005;200                                
+487;34082000;01.08.2000;01.09.2004;160                                
+516;129082000;01.08.2000;01.09.2003;250                               
+534;3070300;01.03.2000;01.03.2003;100                                 
+544;3290600;01.06.2000;01.06.2003;200                                 
+548;00077;01.08.2000;01.08.2002;240                                   
+551;00002;01.05.2000;01.05.2003;200                                   
+596;53082000;01.08.2000;01.09.2002;1200                               
+642;P008;01.09.2000;01.09.2003;144                                    
+644;95072000;01.07.2000;01.07.2005;312                                
+652;P97;01.04.2000;01.04.2002;100                                     
+667;2647;01.05.2000;01.05.2003;60                                     
+668;05042000;01.02.2000;01.02.2005;120                                
+669;0B0405;01.02.2000;01.02.2002;120                                  
+675;67052000;01.05.2000;01.06.2003;70                                 
+684;1190700;01.07.2000;01.07.2005;200                                 
+703;2794;01.05.2000;01.05.2002;240                                    
+704;57062000;01.06.2000;01.07.2003;52                                 
+743;160042000;01.04.2000;01.05.2003;2000                              
+758;128092000;01.09.2000;01.10.2002;30                                
+780;030052;01.07.2000;01.07.2005;220                                  
+781;024048;01.06.2000;01.06.2005;60                                   
+794;02063;01.04.2000;01.04.2003;270                                   
+812;78102000;01.10.2000;01.11.2003;200                                
+813;65052000;01.05.2000;01.06.2001;400                                
+815;262T;01.09.2000;01.09.2003;81                                     
+821;182062000;01.06.2000;01.07.2003;126                               
+823;1341092000;01.09.2000;01.10.2003;200                              
+833;76052000;01.05.2000;01.06.2005;20                                 
+833;97052000;01.05.2000;01.06.2005;180                                
+835;2B0700;01.07.2000;01.07.2002;180                                  
+873;D007222;01.03.2000;01.03.2003;100                                 
+878;09001578;01.09.2000;01.09.2003;200                                
+885;13062000;01.06.2000;01.07.2005;200                                
+952;360900;01.09.2000;01.10.2002;62                                   
+953;470700;01.07.2000;01.08.2003;124                                  
+954;1050800;01.08.2000;01.09.2003;87                                  
+1009;43092000;01.09.2000;01.10.2003;200                               
+1131;50100;01.01.2000;01.02.2003;20                                   
+1188;58072000;01.07.2000;01.01.2002;480                               
+1191;19042000;01.04.2000;01.05.2002;500                               
+1192;73092000;01.09.2000;01.10.2001;256                               
+1201;4092000;01.09.2000;01.10.2003;20                                 
+1205;451099;01.10.1999;01.11.2003;150                                 
+1239;620800;01.08.2000;01.09.2002;640                                 
+1239;710800;01.08.2000;01.09.2002;160                                 
+1247;80600;01.06.2000;01.07.2003;150                                  
+1311;105102000;01.10.2000;01.05.2004;1000                             
+1313;20004;01.04.1998;01.04.2003;100                                  
+1352;70281;01.09.1997;01.09.2002;24                                   
+1367;230800;01.08.2000;01.09.2002;500                                 
+1370;380800;01.08.2000;01.09.2002;280                                 
+1399;107082000;01.08.2000;01.09.2002;500                              
+1442;19092000;01.09.2000;01.10.2002;100                               
+1506;70591;01.09.1997;01.09.2002;48                                   
+1666;4491000;01.10.2000;01.10.2004;600                                
+1685;040198;01.10.1997;01.10.2002;250                                 
+1738;600900;01.09.2000;01.10.2006;29                                  
+1829;20700;01.07.2000;01.07.2002;80                                   
+1831;0BGFD08;01.04.2000;01.04.2004;35                                 
+1853;10112929;01.06.2000;01.06.2003;40                                
+1885;24052000;01.05.2000;01.06.2003;120                               
+1885;29052000;01.05.2000;01.06.2003;240                               
+1906;29082000;01.08.2000;01.09.2005;60                                
+1909;06072000;01.07.2000;01.08.2002;70                                
+1914;451000;01.10.2000;01.11.2003;140                                 
+1918;070700;01.07.2000;01.06.2003;35                                  
+1919;070566;01.07.2000;01.07.2002;240                                 
+1940;50700;01.07.2000;01.07.2002;240                                  
+1995;2245;01.02.2000;01.02.2003;100                                   
+2099;021007;01.05.2000;01.05.2005;110                                 
+2139;110800;01.06.2000;01.06.2003;120                                 
+2140;10800;01.08.2000;01.08.2002;160                                  
+2165;3630900;01.09.2000;01.09.2003;240                                
+2167;30102000;01.10.2000;01.05.2004;117                               
+2254;393102000;01.10.2000;01.11.2001;112                              
+2318;189092000;01.09.2000;01.10.2002;1000                             
+2340;021285;01.03.2000;01.03.2003;30                                  
+2384;32092000;01.09.2000;01.10.2005;120                               
+2463;1270900;01.09.2000;01.10.2002;200                                
+2518;02651B;01.05.2000;01.05.2005;45                                  
+2525;49082000;01.08.2000;01.09.2005;50                                
+2547;400800;01.08.2000;01.09.2003;140                                 
+2714;51082000;01.08.2000;01.09.2005;200                               
+2814;393/00;01.09.2000;01.10.2003;1200                                
+2815;236/00;01.08.2000;01.09.2003;2000                                
+2817;278/00;01.10.2000;01.11.2003;900                                 
+2835;P1007;01.08.2000;01.07.2005;600                                  
+2894;1660800;01.08.2000;01.09.2005;30                                 
+2907;A026313;01.09.2000;01.09.2003;72                                 
+2910;005001;01.02.2000;01.02.2004;30                                  
+2911;026030;01.06.2000;01.06.2004;80                                  
+3021;VJ042;01.04.2000;01.04.2003;48                                   
+3077;F02005;01.01.2000;01.01.2003;100                                 
+3117;02151;01.04.2000;01.04.2005;160                                  
+3134;19/00;01.11.2000;01.11.2005;375                                  
+3183;02062000;01.06.2000;01.07.2002;70                                
+3198;0735130;01.09.2000;01.09.2005;24                                 
+3276;13022000;01.02.2000;01.03.2002;1000                              
+3299;4203202;01.06.2000;01.05.2003;320                                
+3417;8082000;01.08.2000;01.09.2002;252                                
+3744;D4742;01.06.2000;01.06.2005;80                                   
+3745;C8189;01.11.1999;01.11.2004;80                                   
+3910;1712082000;01.08.2000;01.08.2005;80                              
+3910;1771092000;01.09.2000;01.09.2005;160                             
+3922;102102000;01.10.2000;01.11.2005;120                              
+4242;10-00;01.10.2000;01.10.2003;30                                   
+4576;4092000;01.09.2000;01.10.2001;30                                 
+4577;2082000;01.08.2000;01.09.2003;28                                 
+4578;2082000;01.08.2000;01.09.2003;28                                 
+4579;2082000;01.08.2000;01.09.2002;28                                 
+4580;2082000;01.08.2000;01.09.2002;28                                 
+4591;2072000;01.07.2000;01.08.2002;30                                 
+4592;1042000;01.04.2000;01.05.2003;30                                 
+4612;3092000;01.09.2000;01.10.2002;30                                 
+4616;3092000;01.09.2000;01.10.2002;30                                 
+4618;2082000;01.08.2000;01.09.2002;30                                 
+4625;2102000;01.10.2000;01.05.2002;30                                 
+4626;2092000;01.09.2000;01.10.2001;30                                 
+4734;6447;01.05.2000;01.05.2002;40                                    
+4902;3940006;01.03.2000;01.02.2003;50                                 
+5120;0400;01.04.2000;01.04.2003;24                                    
+5263;444082000;01.08.2000;01.08.2004;320                              
+5273;13102000;01.10.2000;01.11.2003;117                               
+5367;63102000;01.10.2000;01.11.2002;550                               
+5391;0HE0778;01.07.2000;01.07.2003;48                                 
+5397;0EN0005;01.03.2000;01.03.2003;12                                 
+5399;9J1227;01.09.1999;01.09.2001;24                                  
+5496;050900;01.09.2000;01.10.2005;56                                  
+5527;160700;01.07.2000;01.08.2003;120                                 
+5533;70102000;01.10.2000;01.11.2002;9                                 
+5536;10072000;01.07.2000;01.08.2003;200                               
+5546;100400C;01.04.2000;01.03.2003;400                                
+5585;02VE0500;01.05.2000;01.05.2003;50                                
+5593;15022000;01.02.2000;01.03.2002;50                                
+5665;35092000;01.09.2000;01.10.2005;66                                
+5670;236092000;01.09.2000;01.10.2003;22                               
+5780;00102975;01.09.2000;01.09.2003;70                                
+5792;0BN0349;01.02.2000;01.02.2003;24                                 
+5793;0BN0483;01.01.1999;01.01.2002;12                                 
+5853;7072000;01.07.2000;01.08.2002;150                                
+5963;71299;01.12.1999;01.01.2002;30                                   
+5969;PD023;01.04.2000;01.04.2003;60                                   
+5970;PD022;01.04.2000;01.04.2003;40                                   
+5971;VJ057;01.08.2000;01.08.2003;24                                   
+5972;VJ042A;01.04.2000;01.04.2003;48                                  
+5975;VJ050;01.07.2000;01.07.2003;24                                   
+6016;27082000;01.08.2000;01.09.2004;84                                
+6172;4186701;01.04.2000;01.03.2003;280                                
+6267;1KT014D9;01.12.1999;01.11.2002;300                               
+6440;13022000;01.02.2000;01.03.2002;400                               
+6511;1004024B;01.04.2000;01.03.2003;144                               
+6572;49072000;01.07.2000;01.08.2003;150                               
+6603;20042000;01.04.2000;01.05.2004;70                                
+6797;D4457;01.05.2000;01.05.2005;80                                   
+6820;127/00;01.10.2000;01.10.2005;350                                 
+7155;03017012;01.09.2000;01.09.2002;10                                
+7236;33052000;01.05.2000;01.06.2002;20                                
+7304;U1144;01.08.2000;01.07.2003;288                                  
+7328;101162;01.03.2000;01.03.2005;420                                 
+7363;008321;01.07.2000;01.01.2003;120                                 
+7448;9053901;01.07.2000;01.07.2003;25                                 
+7449;9054201;01.06.2000;01.05.2003;25                                 
+7486;971501;01.05.1999;01.05.2001;30                                  
+7529;0737021;01.08.2000;01.08.2005;96                                 
+7531;0737931;01.09.2000;01.09.2005;48                                 
+7531;0737932;01.10.2000;01.10.2005;72                                 
+7583;550400;01.06.2000;01.06.2005;360                                 
+7847;187092000;01.09.2000;01.10.2005;104                              
+8044;16042000;01.04.2000;01.05.2003;50                                
+8044;17042000;01.04.2000;01.05.2003;50                                
+8219;8HF274;01.07.1998;01.07.2001;24                                  
+8238;8FH084;01.06.1998;01.06.2001;12                                  
+8283;P014;01.09.2000;01.09.2003;192                                   
+8299;137062000;01.06.2000;01.07.2003;100                              
+8305;93072000;01.07.2000;01.08.2004;72                                
+8474;131072000;01.07.2000;01.08.2003;180                              
+8547;17092000;01.09.2000;01.10.2003;49                                
+8553;14072000;01.07.2000;01.08.2004;300                               
+8565;154052000;01.05.2000;01.06.2005;40                               
+8570;166052000;01.05.2000;01.06.2001;160                              
+8589;136062000;01.06.2000;01.07.2002;56                               
+8662;320900;01.09.2000;01.10.2001;48                                  
+8682;40597;01.05.1997;01.06.2007;700                                  
+8782;23072000;01.07.2000;01.08.2002;200                               
+8794;0B0408;01.02.2000;01.02.2002;120                                 
+8892;64092000;01.09.2000;01.04.2001;72                                
+8990;27082000;01.08.2000;01.09.2003;50                                
+8998;SE-0001;01.02.2000;01.01.2003;50                                 
+9018;83022000;01.02.2000;01.03.2002;120                               
+9030;002108/09-00;01.09.2000;01.09.2003;12                            
+9050;58072000;01.07.2000;01.08.2003;350                               
+9077;0B1276;01.02.2000;01.02.2002;120                                 
+9112;232082000;01.08.2000;01.08.2003;84                               
+9152;37082000;01.08.2000;01.09.2005;120                               
+9177;100092000;01.09.2000;01.10.2001;460                              
+9202;50092000;01.09.2000;01.10.2003;90                                
+9209;39082000;01.08.2000;01.09.2003;168                               
+9230;7102000;01.10.2000;01.11.2002;500                                
+9246;7042000;01.04.2000;01.05.2005;25                                 
+9267;02072000;01.07.2000;01.07.2002;100                               
+9283;13072000;01.07.2000;01.07.2004;200                               
+9306;74092000;01.09.2000;01.10.2002;160                               
+9312;68082000;01.08.2000;01.09.2003;600                               
+9460;B0018;01.05.2000;01.04.2002;150                                  
+9461;B0034;01.07.2000;01.06.2002;150                                  
+9484;01/0100;01.01.2000;01.01.2003;160                                
+9505;15062000;01.06.2000;01.07.2003;110                               
+9651;002018;01.02.2000;01.02.2002;28                                  
+9658;909014;01.09.1999;01.09.2001;28                                  
+9664;9022000;01.02.2000;01.03.2004;36                                 
+9667;050900;01.09.2000;01.09.2003;30                                  
+9730;10052000;01.05.2000;01.06.2004;96                                
+9761;41052000;01.05.2000;01.06.2001;25                                
+9768;181000;01.10.2000;01.11.2002;70                                  
+9776;05072000;01.02.2000;01.02.2010;56                                
+9797;44042000;01.04.2000;01.04.2003;200                               
+9991;06-00;01.06.2000;01.12.2003;10                                   
+10012;09-00;01.09.2000;01.09.2004;50                                  
+10251;480800;01.08.2000;01.08.2005;20                                 
+10336;58072000;01.07.2000;01.08.2003;20                               
+10477;4092000;01.09.2000;01.10.2005;50                                
+10533;0736212;01.06.2000;01.06.2005;48                                
+10539;0737022;01.08.2000;01.08.2005;24                                
+10540;0737820;01.08.2000;01.08.2005;24                                
+10601;10399;01.03.1999;01.04.2004;200                                 
+10677;10092000;01.09.2000;01.10.2002;45                               
+10765;1170500;01.05.2000;01.12.2003;200                               
+10794;49072000;01.07.2000;01.08.2002;25                               
+10796;81000;01.10.2000;01.05.2002;80                                  
+10827;19102000;01.10.2000;01.11.2003;200                              
+10924;2092000;01.09.2000;01.10.2004;55                                
+10932;1102000;01.10.2000;01.11.2002;55                                
+10937;6042000;01.04.2000;01.05.2002;12                                
+10959;29022000;01.02.2000;01.03.2002;250                              
+11083;UG082000;01.08.2000;01.07.2002;240                              
+11102;20102000;01.10.2000;01.11.2002;80                               
+11114;43092000;01.07.2000;01.07.2005;180                              
+11254;03003012;01.07.2000;01.07.2002;20                               
+11321;400900;01.09.2000;01.10.2005;80                                 
+11335;030700;01.07.2000;01.08.2004;49                                 
+11365;1092000;01.09.2000;01.10.2002;100                               
+11366;5102000;01.10.2000;01.11.2003;100                               
+11378;08072000;01.07.2000;01.07.2003;240                              
+11534;03042000;01.04.2000;01.04.2002;500                              
+11538;05022000;01.02.2000;01.02.2003;500                              
+11540;04082000;01.08.2000;01.08.2003;500                              
+11619;151062000;01.06.2000;01.07.2003;40                              
+11698;120599;01.05.1999;01.06.2002;70                                 
+11710;26072000;01.07.2000;01.08.2005;70                               
+11772;5092000;01.09.2000;01.10.2003;108                               
+11789;20900;01.09.2000;01.10.2002;24                                  
+11792;521052000;01.05.2000;01.06.2003;200                             
+11832;08092000;01.09.2000;01.10.2003;50                               
+11843;1032000;01.03.2000;01.10.2001;55                                
+11847;2062000;01.06.2000;01.07.2003;55                                
+11850;2072000;01.07.2000;01.08.2003;28                                
+11860;1102000;01.10.2000;01.11.2002;55                                
+11946;9102000;01.10.2000;01.11.2003;32                                
+11952;3062000;01.06.2000;01.07.2010;40                                
+11958;43092000;01.09.2000;01.10.2002;144                              
+11961;35102000;01.10.2000;01.11.2005;144                              
+11975;7062000;01.06.2000;01.07.2003;28                                
+12032;19082000;01.06.2000;01.07.2002;115                              
+12034;5092000;01.09.2000;01.09.2003;200                               
+12040;491000;01.10.2000;01.11.2002;24                                 
+12041;34052000;01.05.2000;01.06.2002;20                               
+12097;1000;01.10.2000;01.10.2003;500                                  
+12185;0800;01.08.2000;01.08.2003;10                                   
+12196;0600;01.06.2000;01.05.2005;560                                  
+12199;03062000;01.06.2000;01.06.2005;96                               
+12210;78062000;01.06.2000;01.07.2002;35                               
+12232;131092000;01.09.2000;01.10.2002;128                             
+12235;1081000;01.10.2000;01.05.2001;300                               
+12244;67092000;01.09.2000;01.10.2002;500                              
+12246;AHL-008;01.08.2000;01.07.2003;300                               
+12361;990900;01.09.2000;01.10.2002;200                                
+12464;0002;01.06.2000;01.05.2005;80                                   
+12467;304;01.05.2000;01.04.2005;250                                   
+12488;6431;01.07.2000;01.07.2003;180                                  
+12504;02092000;01.09.2000;01.10.2003;50                               
+12519;01032000;01.03.2000;01.04.2002;50                               
+12524;01042000;01.04.2000;01.05.2003;50                               
+12539;01022000;01.02.2000;01.03.2002;50                               
+12547;02092000;01.09.2000;01.10.2002;50                               
+12551;01082000;01.08.2000;01.09.2003;50                               
+12555;02092000;01.09.2000;01.10.2005;50                               
+12574;570599;01.05.1999;01.06.2004;500                                
+12675;052040;01.04.2000;01.03.2003;300                                
+12725;VJ063;01.08.2000;01.08.2003;24                                  
+12820;0700;01.07.2000;01.07.2003;60                                   
+12821;0600;01.06.2000;01.06.2003;28                                   
+12854;B1510112;01.04.2000;01.04.2005;192                              
+12856;140102000;01.10.2000;01.11.2003;50                              
+12911;005;01.07.2000;01.06.2003;160                                   
+12944;391198;01.11.1998;01.12.2002;500                                
+12954;12092000;01.09.2000;01.10.2002;36                               
+12982;45092000;01.09.2000;01.10.2004;20                               
+12983;2082000;01.08.2000;01.09.2003;40                                
+12989;049;01.08.2000;01.07.2003;200                                   
+12990;041;01.07.2000;01.07.2003;200                                   
+12993;100800;01.08.2000;01.09.2002;270                                
+12995;756092000;01.09.2000;01.10.2002;2000                            
+13048;211000;01.10.2000;01.11.2002;36                                 
+**********************************************************            
+Price-list for document:1952099/8 Kurs 1 Data 17.11.2000              
+********************                                                  
+update pmed set price=1.31 where cd_p=3 and cd_m=5;                   
+update pmed set price=1 where cd_p=3 and cd_m=38;                     
+update pmed set price=2.9 where cd_p=3 and cd_m=52;                   
+update pmed set price=4.07 where cd_p=3 and cd_m=67;                  
+update pmed set price=1.51 where cd_p=3 and cd_m=105;                 
+update pmed set price=1.47 where cd_p=3 and cd_m=207;                 
+update pmed set price=44.52 where cd_p=3 and cd_m=216;                
+update pmed set price=1.06 where cd_p=3 and cd_m=219;                 
+update pmed set price=4.01 where cd_p=3 and cd_m=247;                 
+update pmed set price=3.94 where cd_p=3 and cd_m=248;                 
+update pmed set price=4.27 where cd_p=3 and cd_m=249;                 
+update pmed set price=1.92 where cd_p=3 and cd_m=348;                 
+update pmed set price=1.09 where cd_p=3 and cd_m=350;                 
+update pmed set price=16.97 where cd_p=3 and cd_m=432;                
+update pmed set price=6.77 where cd_p=3 and cd_m=469;                 
+update pmed set price=.94 where cd_p=3 and cd_m=485;                  
+update pmed set price=1.16 where cd_p=3 and cd_m=522;                 
+update pmed set price=2.53 where cd_p=3 and cd_m=535;                 
+update pmed set price=2.95 where cd_p=3 and cd_m=546;                 
+update pmed set price=10.77 where cd_p=3 and cd_m=560;                
+update pmed set price=2.4 where cd_p=3 and cd_m=561;                  
+update pmed set price=2.49 where cd_p=3 and cd_m=565;                 
+update pmed set price=88.93 where cd_p=3 and cd_m=567;                
+update pmed set price=1.17 where cd_p=3 and cd_m=584;                 
+update pmed set price=2.59 where cd_p=3 and cd_m=652;                 
+update pmed set price=7.14 where cd_p=3 and cd_m=666;                 
+update pmed set price=1.99 where cd_p=3 and cd_m=693;                 
+update pmed set price=4.97 where cd_p=3 and cd_m=902;                 
+update pmed set price=3.99 where cd_p=3 and cd_m=946;                 
+update pmed set price=4.91 where cd_p=3 and cd_m=979;                 
+update pmed set price=8.83 where cd_p=3 and cd_m=986;                 
+update pmed set price=8.82 where cd_p=3 and cd_m=987;                 
+update pmed set price=17.49 where cd_p=3 and cd_m=1024;               
+update pmed set price=12.95 where cd_p=3 and cd_m=1138;               
+update pmed set price=2.54 where cd_p=3 and cd_m=1230;                
+update pmed set price=.86 where cd_p=3 and cd_m=1257;                 
+update pmed set price=1.99 where cd_p=3 and cd_m=1280;                
+update pmed set price=.88 where cd_p=3 and cd_m=1282;                 
+update pmed set price=2.25 where cd_p=3 and cd_m=1360;                
+update pmed set price=5.62 where cd_p=3 and cd_m=1375;                
+update pmed set price=6.99 where cd_p=3 and cd_m=1382;                
+update pmed set price=15.54 where cd_p=3 and cd_m=1409;               
+update pmed set price=3.18 where cd_p=3 and cd_m=1416;                
+update pmed set price=3.11 where cd_p=3 and cd_m=1419;                
+update pmed set price=2.72 where cd_p=3 and cd_m=1462;                
+update pmed set price=2.25 where cd_p=3 and cd_m=1522;                
+update pmed set price=1.03 where cd_p=3 and cd_m=1529;                
+update pmed set price=1.21 where cd_p=3 and cd_m=1530;                
+update pmed set price=11.54 where cd_p=3 and cd_m=1654;               
+update pmed set price=6.55 where cd_p=3 and cd_m=1682;                
+update pmed set price=1.32 where cd_p=3 and cd_m=1731;                
+update pmed set price=2.75 where cd_p=3 and cd_m=1794;                
+update pmed set price=2.55 where cd_p=3 and cd_m=1848;                
+update pmed set price=.24 where cd_p=3 and cd_m=1956;                 
+update pmed set price=2.75 where cd_p=3 and cd_m=1974;                
+update pmed set price=4.84 where cd_p=3 and cd_m=2055;                
+update pmed set price=.26 where cd_p=3 and cd_m=2088;                 
+update pmed set price=5.08 where cd_p=3 and cd_m=2172;                
+update pmed set price=9.49 where cd_p=3 and cd_m=2259;                
+update pmed set price=4.42 where cd_p=3 and cd_m=2263;                
+update pmed set price=3.51 where cd_p=3 and cd_m=2266;                
+update pmed set price=2.93 where cd_p=3 and cd_m=2305;                
+update pmed set price=.42 where cd_p=3 and cd_m=2513;                 
+update pmed set price=14.81 where cd_p=3 and cd_m=2519;               
+update pmed set price=5.76 where cd_p=3 and cd_m=2528;                
+update pmed set price=9.18 where cd_p=3 and cd_m=2603;                
+update pmed set price=4.36 where cd_p=3 and cd_m=2641;                
+update pmed set price=17.65 where cd_p=3 and cd_m=2657;               
+update pmed set price=1.6 where cd_p=3 and cd_m=2659;                 
+update pmed set price=2.59 where cd_p=3 and cd_m=2700;                
+update pmed set price=6.68 where cd_p=3 and cd_m=2836;                
+update pmed set price=.63 where cd_p=3 and cd_m=3011;                 
+update pmed set price=.7 where cd_p=3 and cd_m=3192;                  
+update pmed set price=29.78 where cd_p=3 and cd_m=3246;               
+update pmed set price=5.29 where cd_p=3 and cd_m=3301;                
+update pmed set price=2.95 where cd_p=3 and cd_m=3755;                
+update pmed set price=.37 where cd_p=3 and cd_m=3760;                 
+update pmed set price=11.48 where cd_p=3 and cd_m=3779;               
+update pmed set price=3.35 where cd_p=3 and cd_m=3786;                
+update pmed set price=.48 where cd_p=3 and cd_m=3906;                 
+update pmed set price=3.37 where cd_p=3 and cd_m=4036;                
+update pmed set price=5.93 where cd_p=3 and cd_m=4037;                
+update pmed set price=4.03 where cd_p=3 and cd_m=4049;                
+update pmed set price=.49 where cd_p=3 and cd_m=4548;                 
+update pmed set price=3.05 where cd_p=3 and cd_m=4751;                
+update pmed set price=2.47 where cd_p=3 and cd_m=4753;                
+update pmed set price=.73 where cd_p=3 and cd_m=5119;                 
+update pmed set price=1.9 where cd_p=3 and cd_m=5274;                 
+update pmed set price=1.46 where cd_p=3 and cd_m=5370;                
+update pmed set price=16.39 where cd_p=3 and cd_m=5822;               
+update pmed set price=17.62 where cd_p=3 and cd_m=5847;               
+update pmed set price=3.5 where cd_p=3 and cd_m=5882;                 
+update pmed set price=3 where cd_p=3 and cd_m=6044;                   
+update pmed set price=3.2 where cd_p=3 and cd_m=6683;                 
+update pmed set price=4.63 where cd_p=3 and cd_m=6687;                
+update pmed set price=5.05 where cd_p=3 and cd_m=6689;                
+update pmed set price=3.68 where cd_p=3 and cd_m=6690;                
+update pmed set price=3.74 where cd_p=3 and cd_m=6694;                
+update pmed set price=2.1 where cd_p=3 and cd_m=6728;                 
+update pmed set price=3.19 where cd_p=3 and cd_m=6736;                
+update pmed set price=.26 where cd_p=3 and cd_m=6828;                 
+update pmed set price=.86 where cd_p=3 and cd_m=6834;                 
+update pmed set price=.49 where cd_p=3 and cd_m=6862;                 
+update pmed set price=.54 where cd_p=3 and cd_m=7141;                 
+update pmed set price=7.54 where cd_p=3 and cd_m=7282;                
+update pmed set price=4.41 where cd_p=3 and cd_m=7345;                
+update pmed set price=2.99 where cd_p=3 and cd_m=7397;                
+update pmed set price=5.05 where cd_p=3 and cd_m=7420;                
+update pmed set price=6.77 where cd_p=3 and cd_m=7697;                
+update pmed set price=12.83 where cd_p=3 and cd_m=7811;               
+update pmed set price=3.17 where cd_p=3 and cd_m=7841;                
+update pmed set price=1.47 where cd_p=3 and cd_m=7950;                
+update pmed set price=1.73 where cd_p=3 and cd_m=8017;                
+update pmed set price=11.94 where cd_p=3 and cd_m=8560;               
+update pmed set price=14.27 where cd_p=3 and cd_m=8562;               
+update pmed set price=.69 where cd_p=3 and cd_m=8653;                 
+update pmed set price=1.94 where cd_p=3 and cd_m=8701;                
+update pmed set price=20.45 where cd_p=3 and cd_m=8780;               
+update pmed set price=.47 where cd_p=3 and cd_m=8867;                 
+update pmed set price=1.62 where cd_p=3 and cd_m=8933;                
+update pmed set price=1.03 where cd_p=3 and cd_m=8963;                
+update pmed set price=1.85 where cd_p=3 and cd_m=8972;                
+update pmed set price=1.24 where cd_p=3 and cd_m=9055;                
+update pmed set price=1.75 where cd_p=3 and cd_m=9056;                
+update pmed set price=3.07 where cd_p=3 and cd_m=9075;                
+update pmed set price=3.52 where cd_p=3 and cd_m=9096;                
+update pmed set price=.73 where cd_p=3 and cd_m=9120;                 
+update pmed set price=4.73 where cd_p=3 and cd_m=9126;                
+update pmed set price=5.19 where cd_p=3 and cd_m=9139;                
+update pmed set price=.82 where cd_p=3 and cd_m=9257;                 
+update pmed set price=5.01 where cd_p=3 and cd_m=9286;                
+update pmed set price=1.02 where cd_p=3 and cd_m=9318;                
+update pmed set price=.48 where cd_p=3 and cd_m=9352;                 
+update pmed set price=.48 where cd_p=3 and cd_m=9353;                 
+update pmed set price=.3 where cd_p=3 and cd_m=9360;                  
+update pmed set price=.39 where cd_p=3 and cd_m=9361;                 
+update pmed set price=32.82 where cd_p=3 and cd_m=9376;               
+update pmed set price=.48 where cd_p=3 and cd_m=9384;                 
+update pmed set price=.92 where cd_p=3 and cd_m=9474;                 
+update pmed set price=1.42 where cd_p=3 and cd_m=9477;                
+update pmed set price=3.85 where cd_p=3 and cd_m=9545;                
+update pmed set price=3.93 where cd_p=3 and cd_m=9550;                
+update pmed set price=.35 where cd_p=3 and cd_m=9622;                 
+update pmed set price=1.04 where cd_p=3 and cd_m=9751;                
+update pmed set price=3.36 where cd_p=3 and cd_m=9758;                
+update pmed set price=3.22 where cd_p=3 and cd_m=9838;                
+update pmed set price=11.85 where cd_p=3 and cd_m=9915;               
+update pmed set price=.26 where cd_p=3 and cd_m=9963;                 
+update pmed set price=.07 where cd_p=3 and cd_m=10045;                
+update pmed set price=.58 where cd_p=3 and cd_m=10073;                
+update pmed set price=2.34 where cd_p=3 and cd_m=10344;               
+update pmed set price=1.02 where cd_p=3 and cd_m=10367;               
+update pmed set price=1.32 where cd_p=3 and cd_m=10755;               
+update pmed set price=3.74 where cd_p=3 and cd_m=10845;               
+update pmed set price=2.05 where cd_p=3 and cd_m=10848;               
+update pmed set price=.85 where cd_p=3 and cd_m=10864;                
+update pmed set price=3.36 where cd_p=3 and cd_m=10986;               
+update pmed set price=1.04 where cd_p=3 and cd_m=11001;               
+update pmed set price=.78 where cd_p=3 and cd_m=11078;                
+update pmed set price=1.51 where cd_p=3 and cd_m=11082;               
+update pmed set price=16.55 where cd_p=3 and cd_m=11111;              
+update pmed set price=11.73 where cd_p=3 and cd_m=11209;              
+update pmed set price=.96 where cd_p=3 and cd_m=11263;                
+update pmed set price=1.39 where cd_p=3 and cd_m=11269;               
+update pmed set price=2.05 where cd_p=3 and cd_m=11449;               
+update pmed set price=.65 where cd_p=3 and cd_m=11462;                
+update pmed set price=.23 where cd_p=3 and cd_m=11481;                
+update pmed set price=2.32 where cd_p=3 and cd_m=11502;               
+update pmed set price=.71 where cd_p=3 and cd_m=11601;                
+update pmed set price=.26 where cd_p=3 and cd_m=11648;                
+update pmed set price=.18 where cd_p=3 and cd_m=11658;                
+update pmed set price=1.38 where cd_p=3 and cd_m=11796;               
+update pmed set price=1.31 where cd_p=3 and cd_m=11798;               
+update pmed set price=4.7 where cd_p=3 and cd_m=11929;                
+update pmed set price=.39 where cd_p=3 and cd_m=11942;                
+update pmed set price=.4 where cd_p=3 and cd_m=11963;                 
+update pmed set price=.3 where cd_p=3 and cd_m=11973;                 
+update pmed set price=3.14 where cd_p=3 and cd_m=12180;               
+update pmed set price=3.79 where cd_p=3 and cd_m=12238;               
+update pmed set price=.94 where cd_p=3 and cd_m=12291;                
+update pmed set price=.94 where cd_p=3 and cd_m=12399;                
+update pmed set price=1.09 where cd_p=3 and cd_m=12404;               
+update pmed set price=.52 where cd_p=3 and cd_m=12616;                
+update pmed set price=.52 where cd_p=3 and cd_m=12620;                
+update pmed set price=.52 where cd_p=3 and cd_m=12623;                
+update pmed set price=.52 where cd_p=3 and cd_m=12624;                
+update pmed set price=.75 where cd_p=3 and cd_m=12629;                
+update pmed set price=.13 where cd_p=3 and cd_m=12703;                
+update pmed set price=.25 where cd_p=3 and cd_m=52453;                
+Тело документа                                                        
+5  50                                                                 
+38  200                                                               
+52  5                                                                 
+67  5                                                                 
+105  30                                                               
+207  30                                                               
+216  2                                                                
+219  10                                                               
+247  20                                                               
+248  20                                                               
+249  20                                                               
+348  100                                                              
+350  30                                                               
+432  5                                                                
+469  20                                                               
+485  30                                                               
+522  200                                                              
+535  30                                                               
+546  160                                                              
+560  10                                                               
+561  20                                                               
+565  30                                                               
+567  1                                                                
+584  100                                                              
+652  20                                                               
+666  50                                                               
+693  20                                                               
+902  10                                                               
+946  5                                                                
+979  20                                                               
+986  50                                                               
+987  100                                                              
+1024  10                                                              
+1138  2                                                               
+1230  100                                                             
+1257  20                                                              
+1280  20                                                              
+1282  50                                                              
+1360  10                                                              
+1375  20                                                              
+1382  5                                                               
+1409  20                                                              
+1416  10                                                              
+1419  5                                                               
+1462  20                                                              
+1522  30                                                              
+1529  50                                                              
+1530  100                                                             
+1654  10                                                              
+1682  30                                                              
+1731  50                                                              
+1794  20                                                              
+1848  10                                                              
+1956  20                                                              
+1974  10                                                              
+2055  3                                                               
+2088  350                                                             
+2172  100                                                             
+2259  10                                                              
+2263  10                                                              
+2266  5                                                               
+2305  5                                                               
+2513  100                                                             
+2519  20                                                              
+2528  30                                                              
+2603  4                                                               
+2641  5                                                               
+2657  5                                                               
+2659  50                                                              
+2700  20                                                              
+2836  2                                                               
+3011  50                                                              
+3192  50                                                              
+3246  5                                                               
+3301  5                                                               
+3755  5                                                               
+3760  10                                                              
+3779  40                                                              
+3786  30                                                              
+3906  100                                                             
+4036  20                                                              
+4037  50                                                              
+4049  20                                                              
+4548  30                                                              
+4751  100                                                             
+4753  100                                                             
+5119  24                                                              
+5274  15                                                              
+5370  40                                                              
+5822  10                                                              
+5847  20                                                              
+5882  20                                                              
+6044  20                                                              
+6683  10                                                              
+6687  10                                                              
+6689  10                                                              
+6690  5                                                               
+6694  5                                                               
+6728  100                                                             
+6736  5                                                               
+6828  40                                                              
+6834  15                                                              
+6862  20                                                              
+7141  160                                                             
+7282  50                                                              
+7345  50                                                              
+7397  20                                                              
+7420  5                                                               
+7697  3                                                               
+7811  5                                                               
+7841  3                                                               
+7950  10                                                              
+8017  140                                                             
+8560  50                                                              
+8562  2                                                               
+8653  100                                                             
+8701  20                                                              
+8780  10                                                              
+8867  10                                                              
+8933  50                                                              
+8963  10                                                              
+8972  6                                                               
+9055  50                                                              
+9056  50                                                              
+9075  20                                                              
+9096  10                                                              
+9120  50                                                              
+9126  5                                                               
+9139  20                                                              
+9257  30                                                              
+9286  20                                                              
+9318  3                                                               
+9352  50                                                              
+9353  50                                                              
+9360  50                                                              
+9361  50                                                              
+9376  5                                                               
+9384  40                                                              
+9474  30                                                              
+9477  30                                                              
+9545  30                                                              
+9550  20                                                              
+9622  50                                                              
+9751  100                                                             
+9758  50                                                              
+9838  5                                                               
+9915  2                                                               
+9963  40                                                              
+10045  600                                                            
+10073  30                                                             
+10344  20                                                             
+10367  20                                                             
+10755  50                                                             
+10845  10                                                             
+10848  10                                                             
+10864  20                                                             
+10986  10                                                             
+11001  10                                                             
+11078  30                                                             
+11082  20                                                             
+11111  3                                                              
+11209  20                                                             
+11263  20                                                             
+11269  10                                                             
+11449  5                                                              
+11462  20                                                             
+11481  200                                                            
+11502  10                                                             
+11601  30                                                             
+11648  144                                                            
+11658  500                                                            
+11796  10                                                             
+11798  40                                                             
+11929  50                                                             
+11942  30                                                             
+11963  15                                                             
+11973  32                                                             
+12180  20                                                             
+12238  5                                                              
+12291  87                                                             
+12399  50                                                             
+12404  50                                                             
+12616  30                                                             
+12620  30                                                             
+12623  30                                                             
+12624  30                                                             
+12629  20                                                             
+12703  50                                                             
+52453  30                                                             
+Серии                                                                 
+**********************************************************            
+Price-list for document:1952099/9 Kurs 1 Data 17.11.2000              
+********************                                                  
+update pmed set price=2.75 where cd_p=3 and cd_m=1974;                
+Тело документа                                                        
+1974  10                                                              
+Серии                                                                 
+**********************************************************            
+Price-list for document:1952099/10 Kurs 1 Data 17.11.2000             
+********************                                                  
+update pmed set price=2.25 where cd_p=3 and cd_m=129;                 
+update pmed set price=2.31 where cd_p=3 and cd_m=130;                 
+update pmed set price=.19 where cd_p=3 and cd_m=1691;                 
+update pmed set price=.15 where cd_p=3 and cd_m=1693;                 
+update pmed set price=.27 where cd_p=3 and cd_m=1694;                 
+update pmed set price=1.68 where cd_p=3 and cd_m=1754;                
+update pmed set price=.23 where cd_p=3 and cd_m=2466;                 
+update pmed set price=2.21 where cd_p=3 and cd_m=2977;                
+update pmed set price=1.3 where cd_p=3 and cd_m=3358;                 
+update pmed set price=.19 where cd_p=3 and cd_m=9510;                 
+update pmed set price=.05 where cd_p=3 and cd_m=9515;                 
+update pmed set price=.18 where cd_p=3 and cd_m=10340;                
+update pmed set price=2.33 where cd_p=3 and cd_m=12671;               
+Тело документа                                                        
+129  120                                                              
+130  250                                                              
+1691  200                                                             
+1693  40                                                              
+1694  200                                                             
+1754  60                                                              
+2466  1000                                                            
+2977  24                                                              
+3358  600                                                             
+9510  120                                                             
+9515  800                                                             
+10340  120                                                            
+12671  200                                                            
+Серии                                                                 
+129;7980500;01.05.2000;01.05.2002;120                                 
+130;207320200;01.02.2000;01.02.2005;250                               
+1691;57022000;01.02.2000;01.03.2004;200                               
+1693;6092000;01.09.2000;01.10.2003;40                                 
+1694;17072000;01.07.2000;01.08.2005;200                               
+1754;110400;01.04.2000;01.04.2003;60                                  
+2466;82082000;01.08.2000;01.09.2002;1000                              
+2977;8G26241;01.07.1998;01.07.2001;24                                 
+3358;32092000;01.09.2000;01.10.2004;600                               
+9510;21092000;01.09.2000;01.10.2004;120                               
+9515;33092000;01.09.2000;01.10.2005;800                               
+10340;7072000;01.07.2000;01.08.2004;120                               
+12671;907717;01.07.1999;01.07.2003;200                                
+**********************************************************            
+Price-list for document:1952099/11 Kurs 1 Data 17.11.2000             
+********************                                                  
+update pmed set price=.27709359 where cd_p=3 and cd_m=2828;           
+update pmed set price=.27709359 where cd_p=3 and cd_m=2831;           
+update pmed set price=.27709359 where cd_p=3 and cd_m=2834;           
+update pmed set price=1.03189655 where cd_p=3 and cd_m=9917;          
+update pmed set price=.59907692 where cd_p=3 and cd_m=9925;           
+update pmed set price=.6 where cd_p=3 and cd_m=10427;                 
+update pmed set price=.6 where cd_p=3 and cd_m=10428;                 
+update pmed set price=.87092784 where cd_p=3 and cd_m=10443;          
+update pmed set price=.87 where cd_p=3 and cd_m=10860;                
+update pmed set price=.60176471 where cd_p=3 and cd_m=11573;          
+update pmed set price=58.96181874 where cd_p=3 and cd_m=12042;        
+update pmed set price=.48807692 where cd_p=3 and cd_m=12117;          
+update pmed set price=.93087379 where cd_p=3 and cd_m=12173;          
+update pmed set price=.93 where cd_p=3 and cd_m=12178;                
+update pmed set price=.59907692 where cd_p=3 and cd_m=12451;          
+update pmed set price=1.30816901 where cd_p=3 and cd_m=12800;         
+update pmed set price=.71175 where cd_p=3 and cd_m=52384;             
+Тело документа                                                        
+2828  480                                                             
+2831  480                                                             
+2834  480                                                             
+9917  70                                                              
+9925  25                                                              
+10427  100                                                            
+10428  100                                                            
+10443  30                                                             
+10860  10                                                             
+11573  100                                                            
+12042  12                                                             
+12117  20                                                             
+12173  35                                                             
+12178  35                                                             
+12451  60                                                             
+12800  12                                                             
+52384  30                                                             
+Серии                                                                 
+2828;0200;01.02.2000;01.02.2002;480                                   
+2831;0600;01.06.2000;01.05.2002;480                                   
+2834;0500;01.05.2000;01.05.2002;480                                   
+9917;0999;01.09.1999;01.09.2001;70                                    
+9925;040600;01.06.2000;01.06.2003;25                                  
+10427;082000;01.08.2000;01.08.2002;100                                
+10428;082000;01.08.2000;01.08.2002;100                                
+10443;102000;01.10.2000;01.10.2001;30                                 
+10860;08-00;01.08.2000;01.08.2002;10                                  
+11573;102000;01.10.2000;01.10.2002;100                                
+12042;060093;01.07.2000;01.07.2003;12                                 
+12117;0900;01.09.2000;01.03.2001;20                                   
+12173;10-00;01.10.2000;01.10.2001;35                                  
+12178;10-00;01.10.2000;01.10.2001;35                                  
+12451;004;01.06.2000;01.06.2002;60                                    
+12800;0700;01.07.2000;01.07.2002;12                                   
+52384;1032000;01.03.2000;01.03.2001;30                                
+**********************************************************            
+Price-list for document:1952099/12 Kurs 1 Data 17.11.2000             
+********************                                                  
+update pmed set price=.27709359 where cd_p=3 and cd_m=2833;           
+update pmed set price=.81818182 where cd_p=3 and cd_m=9396;           
+update pmed set price=.27709359 where cd_p=3 and cd_m=10455;          
+Тело документа                                                        
+2833  160                                                             
+9396  50                                                              
+10455  50                                                             
+Серии                                                                 
+**********************************************************            
+
+PL/SQL procedure successfully completed.
+
